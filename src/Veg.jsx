@@ -9,7 +9,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 220,
     desc: "Fragrant basmati rice with spiced vegetables, mint and saffron.",
-    img: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKs98mWzpqdzTefx6qdTN2X-Us2MFdhWA91Yi2guZaXw&s=10"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 210,
     desc: "Crispy paneer cubes tossed with curry leaves and spicy masala.",
-    img: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdegjm0RUZ_ewc32Ym1L2RNs3Wp2b4n00rugcPha9zw&s=10"
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 180,
     desc: "Baby eggplants cooked in a rich peanut and sesame gravy.",
-    img: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLOXzHY4ebA2fVBXQWxKinm4Znfr4u0p7dtI6MSlIkw&s=10"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 170,
     desc: "Traditional green chili curry in a nutty coconut-sesame sauce.",
-    img: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXpeVQb5zGwsGQav2Hm3NL9r9cEvgGSMNS3afn423ilg&s=10"
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 250,
     desc: "Soft marinated paneer cooked with aromatic basmati rice.",
-    img: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIpu6J0XSakACDQYxCrjY20NQFfzaMYtS_-4nKplcg5g&s=10"
   },
   {
     id: 6,
@@ -49,7 +49,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 140,
     desc: "Tangy yellow lentils tempered with garlic, cumin and spices.",
-    img: "https://images.unsplash.com/photo-1547592180-85f173990554?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXTksaex_QYo8WuRXwYzSATe2GQujTHUQlGX-CRP7KQ&s=10"
   },
   {
     id: 7,
@@ -57,7 +57,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 230,
     desc: "Mixed vegetables in a creamy cashew and aromatic spice gravy.",
-    img: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK9VKBYKpubYXF89seYiHR4rXIgcSXievekx7qXHkaw&s=10"
   },
   {
     id: 8,
@@ -65,7 +65,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 210,
     desc: "Fresh vegetables simmered in spinach and fenugreek gravy.",
-    img: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1EEshp0A9mrsBovM1NgzpoMnKBVfejokaAoqHU3im3Q&s=10"
   },
   {
     id: 9,
@@ -73,7 +73,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 190,
     desc: "Slow-cooked wheat and lentils with dry fruits and ghee.",
-    img: "https://images.unsplash.com/photo-1547592180-85f173990554?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcGuW9OXiY_cpRkBdKgZ9V5zvL1uIuc2FP4Kqrf-VAg&s=10"
   },
   {
     id: 10,
@@ -81,7 +81,7 @@ const vegItems = [
     category: "Hyderabadi",
     price: 130,
     desc: "Traditional bread pudding with saffron, cardamom and nuts.",
-    img: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyZ5oNqf2WsdEZlUG8kfDmcvFk48bK5KNp3s6PYkaxA&s=10"
   },
   {
     id: 11,
@@ -89,7 +89,7 @@ const vegItems = [
     category: "Arabian",
     price: 190,
     desc: "Golden chickpea patties served with tahini sauce and pickles.",
-    img: "https://images.unsplash.com/photo-1593001874117-c99c800e3eb4?w=700"
+    img: "https://images.unsplash.com/photo-1736928634472-abd43ed645a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
   {
     id: 12,
@@ -97,7 +97,7 @@ const vegItems = [
     category: "Arabian",
     price: 160,
     desc: "Creamy chickpea and tahini dip served with warm pita bread.",
-    img: "https://images.unsplash.com/photo-1577805947697-89e18249d767?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzG-eGzY3rUdmRlmzzbnMuAgEM-3yVHZvjOPnoq5XS3Q&s=10"
   },
   {
     id: 13,
@@ -105,7 +105,7 @@ const vegItems = [
     category: "Arabian",
     price: 150,
     desc: "Grilled paneer wrapped in soft bread with garlic sauce.",
-    img: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR4A6wyQtZThDy6FjfDryoEJGHKFdogXaNSndfLhztg&s=10"
   },
   {
     id: 14,
@@ -113,7 +113,7 @@ const vegItems = [
     category: "Arabian",
     price: 260,
     desc: "Arabian-style spiced rice with roasted vegetables and cashews.",
-    img: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTisPH8ZSoQbXyTzRvgAsKFAZzyQt7CknAsc2lk_OMrwA&s=10"
   },
   {
     id: 15,
@@ -121,7 +121,7 @@ const vegItems = [
     category: "Arabian",
     price: 170,
     desc: "Smoky roasted eggplant dip with tahini, lemon and garlic.",
-    img: "https://images.unsplash.com/photo-1577805947697-89e18249d767?w=700"
+    img: "https://images.unsplash.com/photo-1589786742552-75f33147a7ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
   {
     id: 16,
@@ -145,7 +145,7 @@ const vegItems = [
     category: "Arabian",
     price: 210,
     desc: "Tender vine leaves filled with herbed rice and lemon.",
-    img: "https://images.unsplash.com/photo-1547592180-85f173990554?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMIsPqVFXnZyC_Oyay_yp30ar8jPiMYUbyfe_QEuQ-g&s=10"
   },
   {
     id: 19,
@@ -153,7 +153,7 @@ const vegItems = [
     category: "Arabian",
     price: 320,
     desc: "A selection of hummus, falafel, olives, dips and pita bread.",
-    img: "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZtp-REtvw1c8D5EplIyho6_8Amv8yThkVWk-rLPn3A&s=10"
   },
   {
     id: 20,
@@ -161,7 +161,7 @@ const vegItems = [
     category: "Arabian",
     price: 200,
     desc: "Golden crispy pastry layered with sweet cheese and syrup.",
-    img: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=700"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xa6NYec1k1C1EqPp_E9x9Zu_Pdi14MbIzNq35j3lcg&s=10"
   }
 ];
 
