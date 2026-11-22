@@ -6,19 +6,19 @@ const specials = [
   {
     name: "Chicken Dum Biryani",
     price: "₹250",
-    img: "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJc0iICTBA_EqL-XTGgcKmKrpAW_bKgN7JXhZFw8j9A&s=10v",
     desc: "Aromatic Hyderabadi biryani with delicious spices."
   },
   {
     name: "Chicken Mandi",
     price: "₹320",
-    img: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThb2EZRh-yKP1__xNw5_KXLQiud5PjEDDb-55QUY_99g&s=10",
     desc: "Arabian-style rice served with roasted chicken."
   },
   {
     name: "Veg Dum Biryani",
     price: "₹220",
-    img: "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=800",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKs98mWzpqdzTefx6qdTN2X-Us2MFdhWA91Yi2guZaXw&s=10",
     desc: "Delicious basmati rice cooked with fresh vegetables."
   }
 ];
